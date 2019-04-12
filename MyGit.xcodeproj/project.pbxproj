@@ -15,6 +15,7 @@
 		1871262C2260182200D86A9F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1871262B2260182200D86A9F /* main.m */; };
 		187126362260182200D86A9F /* MyGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 187126352260182200D86A9F /* MyGitTests.m */; };
 		187126412260182200D86A9F /* MyGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 187126402260182200D86A9F /* MyGitUITests.m */; };
+		1871265022601B2400D86A9F /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1871264F22601B2400D86A9F /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1871263C2260182200D86A9F /* MyGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		187126402260182200D86A9F /* MyGitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyGitUITests.m; sourceTree = "<group>"; };
 		187126422260182200D86A9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1871264E22601B2400D86A9F /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		1871264F22601B2400D86A9F /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				187126272260182200D86A9F /* LaunchScreen.storyboard */,
 				1871262A2260182200D86A9F /* Info.plist */,
 				1871262B2260182200D86A9F /* main.m */,
+				1871264E22601B2400D86A9F /* Person.h */,
+				1871264F22601B2400D86A9F /* Person.m */,
 			);
 			path = MyGit;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 			files = (
 				187126212260182000D86A9F /* ViewController.m in Sources */,
 				1871262C2260182200D86A9F /* main.m in Sources */,
+				1871265022601B2400D86A9F /* Person.m in Sources */,
 				1871261E2260182000D86A9F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
