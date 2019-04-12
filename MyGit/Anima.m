@@ -1,13 +1,13 @@
 //
-//  Person.m
+//  Anima.m
 //  MyGit
 //
 //  Created by apple on 2019/4/12.
 //  Copyright © 2019 com. All rights reserved.
 //
 
-#import "Person.h"
+#import "Anima.h"
 
-@implementation Person
+@implementation Anima
 
 @end

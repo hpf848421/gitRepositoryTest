@@ -1,5 +1,5 @@
 //
-//  Person.h
+//  Anima.h
 //  MyGit
 //
 //  Created by apple on 2019/4/12.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Person : NSObject
+@interface Anima : NSObject
 
 @end
 
