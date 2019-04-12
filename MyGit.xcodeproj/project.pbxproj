@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18163F4622601CF400CAC4DD /* Anima.m in Sources */ = {isa = PBXBuildFile; fileRef = 18163F4522601CF400CAC4DD /* Anima.m */; };
 		1871261E2260182000D86A9F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1871261D2260182000D86A9F /* AppDelegate.m */; };
 		187126212260182000D86A9F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 187126202260182000D86A9F /* ViewController.m */; };
 		187126242260182000D86A9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187126222260182000D86A9F /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18163F4422601CF400CAC4DD /* Anima.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Anima.h; sourceTree = "<group>"; };
+		18163F4522601CF400CAC4DD /* Anima.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Anima.m; sourceTree = "<group>"; };
 		187126192260182000D86A9F /* MyGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1871261C2260182000D86A9F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1871261D2260182000D86A9F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				187126272260182200D86A9F /* LaunchScreen.storyboard */,
 				1871262A2260182200D86A9F /* Info.plist */,
 				1871262B2260182200D86A9F /* main.m */,
+				18163F4422601CF400CAC4DD /* Anima.h */,
+				18163F4522601CF400CAC4DD /* Anima.m */,
 			);
 			path = MyGit;
 			sourceTree = "<group>";
@@ -262,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18163F4622601CF400CAC4DD /* Anima.m in Sources */,
 				187126212260182000D86A9F /* ViewController.m in Sources */,
 				1871262C2260182200D86A9F /* main.m in Sources */,
 				1871261E2260182000D86A9F /* AppDelegate.m in Sources */,
